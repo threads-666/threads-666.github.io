@@ -1,1 +1,3 @@
 - [Beranda](/)
+- [Buat Produk](./buat-produk.md)
+  - [Sisipkan Affiliate di Produk](./sisipkan-affiliate.md)
