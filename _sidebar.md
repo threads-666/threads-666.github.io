@@ -2,3 +2,7 @@
 - [Buat Produk](./buat-produk.md)
   - [Sisipkan Affiliate di Produk](./sisipkan-affiliate.md)
 - [Upload Produk](./upload-produk.md)
+- [Buat Jadwal](./jadwal.md)
+- [Mempersiapkan Threads](./persiapan.md)
+- [WA Marketing](./wa.md)
+- [Penutup](./penutup.md)
