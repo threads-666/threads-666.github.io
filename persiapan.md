@@ -15,3 +15,5 @@ Untuk konten, kamu buat konten bebas aja. Tapi, nanti di akhir, ajak audiens unt
 Jadi, strategi kontennya adalah hook - story - offer. Atau kalau bahasanya Pak Bondan itu adalah pikat - ikat - sikat
 
 Di awal, pakai hook yang membuat audiens penasaran membacanya. Lalu, di utas-utas berikutnya, tampilkan storytelling. Lalu, di akhir, ajak audiens untuk klik link di bio.
+
+Aku di konten tersebut pakai tools tertentu sehingga bisa viral. Kalau kamu mau tools-nya juga, [klik di sini](https://clicky.id/zenzen/viral)
